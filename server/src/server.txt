@@ -1,0 +1,5 @@
+node js??
+python ??
+Rust??
+
+Would hate c++ tho
